@@ -1,0 +1,8 @@
+{
+  "name": "Gali Guide",
+  "description": "Custom last-mile route navigation for India's galis and narrow lanes with host-drawn paths, visual landmark photos, and live off-route alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Gali Guide - Custom Last-Mile Route Navigation",
+  "short_name": "GaliGuide",
+  "description": "Host-drawn last-mile route navigation for narrow Indian galis and colonies.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
